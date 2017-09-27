@@ -1,4 +1,4 @@
-golang-github-hashicorp-memberlist (0.1.0-1) UNRELEASED; urgency=medium
+golang-github-hashicorp-memberlist (0.1.0-1) unstable; urgency=medium
 
   * Team upload.
   * Update debian/watch.
